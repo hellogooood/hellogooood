@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hellogooood
-- 👀 I’m interested in Ruby and Ruby on Rails
-- 🌱 I’m currently learning Ruby 
+- 👀 I’m learning to code in Ruby and Ruby on Rails
 - 💞️ If you have any tips I'd love to hear from you.
 - 📫 Thanks!
 
